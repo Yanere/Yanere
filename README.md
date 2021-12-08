@@ -5,8 +5,8 @@
 [![Twitter Badge](https://img.shields.io/badge/Discord-User-purple?style=flat)](https://discordapp.com/users/320215299326607370)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&color=purple)](https://twitter.com/xyanere)
 
-<p>I am a fullstack web developer who creates applications to make everyday life easier. 
-</p>
+<h2>I am a fullstack web developer who creates applications to make everyday life easier. 
+<h2>
 
 
 
