@@ -1,6 +1,6 @@
  # Hi , I'm Yanere 👋
 
-![Yaneres's GitHub Banner](./assets/GitHubHeader.png)
+![Yaneres's GitHub Banner](https://cdnb.artstation.com/p/assets/images/images/014/665/033/original/yargon-kerman-webp-net-gifmaker-39.gif?1544919451)
 
 [![Twitter Badge](https://img.shields.io/badge/Discord-User-purple?style=flat)](https://discordapp.com/users/320215299326607370)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&color=purple)](https://twitter.com/xyanere)
