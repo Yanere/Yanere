@@ -6,7 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&color=purple)](https://twitter.com/xyanere)
 
 <h2>I am a fullstack web developer who creates applications to make everyday life easier. 
-<h2>
+</h2>
 
 
 
